@@ -10,7 +10,6 @@ public abstract class Airplane : IAirplane
     }
 
     public abstract double CalculateCost();
-
     public double CalculateStandardCost()
     {
         return 1352.45;

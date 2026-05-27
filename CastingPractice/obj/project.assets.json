@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/CastingPractice/CastingPractice.csproj",
+      "projectUniqueName": "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/CastingPractice/CastingPractice.csproj",
       "projectName": "CastingPractice",
-      "projectPath": "/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/CastingPractice/CastingPractice.csproj",
+      "projectPath": "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/CastingPractice/CastingPractice.csproj",
       "packagesPath": "/home/bernardo/.nuget/packages/",
-      "outputPath": "/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/CastingPractice/obj/",
+      "outputPath": "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/CastingPractice/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/bernardo/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.122/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.127/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

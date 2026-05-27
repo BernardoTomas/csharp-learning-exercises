@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PracticingClasses
-build_property.ProjectDir = /home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/PracticingClasses/
+build_property.ProjectDir = /home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/PracticingClasses/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

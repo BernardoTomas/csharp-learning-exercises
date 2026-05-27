@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/arrays-e-funcoes/arrays-e-funcoes.csproj",
+      "projectUniqueName": "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/arrays-e-funcoes/arrays-e-funcoes.csproj",
       "projectName": "arrays-e-funcoes",
-      "projectPath": "/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/arrays-e-funcoes/arrays-e-funcoes.csproj",
+      "projectPath": "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/arrays-e-funcoes/arrays-e-funcoes.csproj",
       "packagesPath": "/home/bernardo/.nuget/packages/",
-      "outputPath": "/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/arrays-e-funcoes/obj/",
+      "outputPath": "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/arrays-e-funcoes/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/bernardo/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.122/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.127/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/PracticingClasses/PracticingClasses.csproj": {}
+    "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/PracticingClasses/PracticingClasses.csproj": {}
   },
   "projects": {
-    "/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/PracticingClasses/PracticingClasses.csproj": {
+    "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/PracticingClasses/PracticingClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/PracticingClasses/PracticingClasses.csproj",
+        "projectUniqueName": "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/PracticingClasses/PracticingClasses.csproj",
         "projectName": "PracticingClasses",
-        "projectPath": "/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/PracticingClasses/PracticingClasses.csproj",
+        "projectPath": "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/PracticingClasses/PracticingClasses.csproj",
         "packagesPath": "/home/bernardo/.nuget/packages/",
-        "outputPath": "/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/PracticingClasses/obj/",
+        "outputPath": "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/PracticingClasses/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/bernardo/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.122/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.127/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

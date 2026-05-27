@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NNCYcRan0NVfXtnuiHA+LON1wgj7zVfPjtGk0TOqyslGtuArRqKqHasHZny5NTVQfYu7XnClHErHKcCdNj6zHA==",
+  "dgSpecHash": "rqapoStIKhU7J9/lbhiYi87WvwNP4n7jS80EKfmS8BpbxlF3sykAE+zBiIgFpozn4BB1mgIc+pEJgmGNGwdM9A==",
   "success": true,
-  "projectFilePath": "/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/CastingPractice/CastingPractice.csproj",
+  "projectFilePath": "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/CastingPractice/CastingPractice.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

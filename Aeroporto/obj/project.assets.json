@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/Aeroporto/Aeroporto.csproj",
+      "projectUniqueName": "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/Aeroporto/Aeroporto.csproj",
       "projectName": "Aeroporto",
-      "projectPath": "/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/Aeroporto/Aeroporto.csproj",
+      "projectPath": "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/Aeroporto/Aeroporto.csproj",
       "packagesPath": "/home/bernardo/.nuget/packages/",
-      "outputPath": "/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/Aeroporto/obj/",
+      "outputPath": "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/Aeroporto/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/bernardo/.nuget/NuGet/NuGet.Config"
