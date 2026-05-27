@@ -1,0 +1,14 @@
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/CastingPractice/bin/Debug/net8.0/CastingPractice
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/CastingPractice/bin/Debug/net8.0/CastingPractice.deps.json
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/CastingPractice/bin/Debug/net8.0/CastingPractice.runtimeconfig.json
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/CastingPractice/bin/Debug/net8.0/CastingPractice.dll
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/CastingPractice/bin/Debug/net8.0/CastingPractice.pdb
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/CastingPractice/obj/Debug/net8.0/CastingPractice.GeneratedMSBuildEditorConfig.editorconfig
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/CastingPractice/obj/Debug/net8.0/CastingPractice.AssemblyInfoInputs.cache
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/CastingPractice/obj/Debug/net8.0/CastingPractice.AssemblyInfo.cs
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/CastingPractice/obj/Debug/net8.0/CastingPractice.csproj.CoreCompileInputs.cache
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/CastingPractice/obj/Debug/net8.0/CastingPractice.dll
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/CastingPractice/obj/Debug/net8.0/refint/CastingPractice.dll
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/CastingPractice/obj/Debug/net8.0/CastingPractice.pdb
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/CastingPractice/obj/Debug/net8.0/CastingPractice.genruntimeconfig.cache
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/CastingPractice/obj/Debug/net8.0/ref/CastingPractice.dll

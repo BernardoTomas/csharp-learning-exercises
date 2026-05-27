@@ -1,0 +1,14 @@
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/arrays-e-funcoes/bin/Debug/net8.0/arrays-e-funcoes
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/arrays-e-funcoes/bin/Debug/net8.0/arrays-e-funcoes.deps.json
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/arrays-e-funcoes/bin/Debug/net8.0/arrays-e-funcoes.runtimeconfig.json
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/arrays-e-funcoes/bin/Debug/net8.0/arrays-e-funcoes.dll
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/arrays-e-funcoes/bin/Debug/net8.0/arrays-e-funcoes.pdb
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/arrays-e-funcoes/obj/Debug/net8.0/arrays-e-funcoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/arrays-e-funcoes/obj/Debug/net8.0/arrays-e-funcoes.AssemblyInfoInputs.cache
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/arrays-e-funcoes/obj/Debug/net8.0/arrays-e-funcoes.AssemblyInfo.cs
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/arrays-e-funcoes/obj/Debug/net8.0/arrays-e-funcoes.csproj.CoreCompileInputs.cache
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/arrays-e-funcoes/obj/Debug/net8.0/arrays-e-funcoes.dll
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/arrays-e-funcoes/obj/Debug/net8.0/refint/arrays-e-funcoes.dll
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/arrays-e-funcoes/obj/Debug/net8.0/arrays-e-funcoes.pdb
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/arrays-e-funcoes/obj/Debug/net8.0/arrays-e-funcoes.genruntimeconfig.cache
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/arrays-e-funcoes/obj/Debug/net8.0/ref/arrays-e-funcoes.dll

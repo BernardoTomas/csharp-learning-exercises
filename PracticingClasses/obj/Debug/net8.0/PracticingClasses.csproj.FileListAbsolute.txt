@@ -1,0 +1,14 @@
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/PracticingClasses/bin/Debug/net8.0/PracticingClasses
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/PracticingClasses/bin/Debug/net8.0/PracticingClasses.deps.json
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/PracticingClasses/bin/Debug/net8.0/PracticingClasses.runtimeconfig.json
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/PracticingClasses/bin/Debug/net8.0/PracticingClasses.dll
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/PracticingClasses/bin/Debug/net8.0/PracticingClasses.pdb
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/PracticingClasses/obj/Debug/net8.0/PracticingClasses.GeneratedMSBuildEditorConfig.editorconfig
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/PracticingClasses/obj/Debug/net8.0/PracticingClasses.AssemblyInfoInputs.cache
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/PracticingClasses/obj/Debug/net8.0/PracticingClasses.AssemblyInfo.cs
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/PracticingClasses/obj/Debug/net8.0/PracticingClasses.csproj.CoreCompileInputs.cache
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/PracticingClasses/obj/Debug/net8.0/PracticingClasses.dll
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/PracticingClasses/obj/Debug/net8.0/refint/PracticingClasses.dll
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/PracticingClasses/obj/Debug/net8.0/PracticingClasses.pdb
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/PracticingClasses/obj/Debug/net8.0/PracticingClasses.genruntimeconfig.cache
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/PracticingClasses/obj/Debug/net8.0/ref/PracticingClasses.dll

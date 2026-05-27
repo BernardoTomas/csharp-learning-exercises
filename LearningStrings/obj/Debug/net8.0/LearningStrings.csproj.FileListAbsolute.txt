@@ -1,0 +1,14 @@
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/LearningStrings/bin/Debug/net8.0/LearningStrings
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/LearningStrings/bin/Debug/net8.0/LearningStrings.deps.json
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/LearningStrings/bin/Debug/net8.0/LearningStrings.runtimeconfig.json
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/LearningStrings/bin/Debug/net8.0/LearningStrings.dll
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/LearningStrings/bin/Debug/net8.0/LearningStrings.pdb
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/LearningStrings/obj/Debug/net8.0/LearningStrings.GeneratedMSBuildEditorConfig.editorconfig
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/LearningStrings/obj/Debug/net8.0/LearningStrings.AssemblyInfoInputs.cache
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/LearningStrings/obj/Debug/net8.0/LearningStrings.AssemblyInfo.cs
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/LearningStrings/obj/Debug/net8.0/LearningStrings.csproj.CoreCompileInputs.cache
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/LearningStrings/obj/Debug/net8.0/LearningStrings.dll
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/LearningStrings/obj/Debug/net8.0/refint/LearningStrings.dll
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/LearningStrings/obj/Debug/net8.0/LearningStrings.pdb
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/LearningStrings/obj/Debug/net8.0/LearningStrings.genruntimeconfig.cache
+/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/LearningStrings/obj/Debug/net8.0/ref/LearningStrings.dll

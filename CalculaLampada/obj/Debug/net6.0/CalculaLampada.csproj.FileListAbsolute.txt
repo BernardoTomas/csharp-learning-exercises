@@ -1,0 +1,15 @@
+/home/bernardo/Documentos/ExerciciosTrybe/C#/CalculaLampada/obj/Debug/net6.0/CalculaLampada.csproj.AssemblyReference.cache
+/home/bernardo/Documentos/ExerciciosTrybe/C#/CalculaLampada/obj/Debug/net6.0/CalculaLampada.GeneratedMSBuildEditorConfig.editorconfig
+/home/bernardo/Documentos/ExerciciosTrybe/C#/CalculaLampada/obj/Debug/net6.0/CalculaLampada.AssemblyInfoInputs.cache
+/home/bernardo/Documentos/ExerciciosTrybe/C#/CalculaLampada/obj/Debug/net6.0/CalculaLampada.AssemblyInfo.cs
+/home/bernardo/Documentos/ExerciciosTrybe/C#/CalculaLampada/obj/Debug/net6.0/CalculaLampada.csproj.CoreCompileInputs.cache
+/home/bernardo/Documentos/ExerciciosTrybe/C#/CalculaLampada/bin/Debug/net6.0/CalculaLampada
+/home/bernardo/Documentos/ExerciciosTrybe/C#/CalculaLampada/bin/Debug/net6.0/CalculaLampada.deps.json
+/home/bernardo/Documentos/ExerciciosTrybe/C#/CalculaLampada/bin/Debug/net6.0/CalculaLampada.runtimeconfig.json
+/home/bernardo/Documentos/ExerciciosTrybe/C#/CalculaLampada/bin/Debug/net6.0/CalculaLampada.dll
+/home/bernardo/Documentos/ExerciciosTrybe/C#/CalculaLampada/bin/Debug/net6.0/ref/CalculaLampada.dll
+/home/bernardo/Documentos/ExerciciosTrybe/C#/CalculaLampada/bin/Debug/net6.0/CalculaLampada.pdb
+/home/bernardo/Documentos/ExerciciosTrybe/C#/CalculaLampada/obj/Debug/net6.0/CalculaLampada.dll
+/home/bernardo/Documentos/ExerciciosTrybe/C#/CalculaLampada/obj/Debug/net6.0/ref/CalculaLampada.dll
+/home/bernardo/Documentos/ExerciciosTrybe/C#/CalculaLampada/obj/Debug/net6.0/CalculaLampada.pdb
+/home/bernardo/Documentos/ExerciciosTrybe/C#/CalculaLampada/obj/Debug/net6.0/CalculaLampada.genruntimeconfig.cache
