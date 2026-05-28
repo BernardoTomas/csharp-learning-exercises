@@ -1,0 +1,15 @@
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/Airport-Review/bin/Debug/net8.0/Airport-Review
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/Airport-Review/bin/Debug/net8.0/Airport-Review.deps.json
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/Airport-Review/bin/Debug/net8.0/Airport-Review.runtimeconfig.json
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/Airport-Review/bin/Debug/net8.0/Airport-Review.dll
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/Airport-Review/bin/Debug/net8.0/Airport-Review.pdb
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/Airport-Review/obj/Debug/net8.0/Airport-Review.GeneratedMSBuildEditorConfig.editorconfig
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/Airport-Review/obj/Debug/net8.0/Airport-Review.AssemblyInfoInputs.cache
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/Airport-Review/obj/Debug/net8.0/Airport-Review.AssemblyInfo.cs
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/Airport-Review/obj/Debug/net8.0/Airport-Review.csproj.CoreCompileInputs.cache
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/Airport-Review/obj/Debug/net8.0/Airport-Review.sourcelink.json
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/Airport-Review/obj/Debug/net8.0/Airport-Review.dll
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/Airport-Review/obj/Debug/net8.0/refint/Airport-Review.dll
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/Airport-Review/obj/Debug/net8.0/Airport-Review.pdb
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/Airport-Review/obj/Debug/net8.0/Airport-Review.genruntimeconfig.cache
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/Airport-Review/obj/Debug/net8.0/ref/Airport-Review.dll
