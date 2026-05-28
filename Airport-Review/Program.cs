@@ -4,10 +4,13 @@ public class MainClass
 {
     public static void Main(string[] args)
     {
-        Airplane embraer = new Airplane("BLINK-182");
-        Flight flight01 = new Flight("001", 2000);
-        flight01.Airplane = embraer;
+        Airplane embraer = new PassengerAirplane("SUM-41", 4);
+        Airplane tam = new CargoAirplane("BLINK-182", 400);
 
-        Console.WriteLine("Aeronave: " + flight01.Airplane.Prefix + flight01.FlightId + "; Distância: " + flight01.Distance + "; Custo: " + flight01.CalculateCost().ToString());
+        Flight flight01 = new Flight("001", 2000);
+        Flight flight02 = new Flight("002", 1000);
+        
+        flight01.Airplane = embraer;
+        flight02.Airplane = tam;
     }
 }
