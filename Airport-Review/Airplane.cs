@@ -1,6 +1,6 @@
 namespace Airline;
 
-public class Airplane
+public abstract class Airplane : IAirplane
 {
     public string Prefix { get; set; }
 
@@ -9,8 +9,9 @@ public class Airplane
         this.Prefix = Prefix;
     }
 
-    public double CalculateCost ()
+    public double CalculateStandardCost ()
     {
-        return 2000;
+        return 1352.45;
     }
+    public abstract double CalculateCost();
 }

@@ -1,6 +1,6 @@
 namespace Airline;
 
-public class CargoAirplane : Airplane
+public class CargoAirplane : Airplane, ICargoAirplane
 {
     private double _payLoad { get; set; }
     private double _loadedWeight { get; set; }
@@ -14,5 +14,10 @@ public class CargoAirplane : Airplane
     {
         if ((_loadedWeight + weight) > _payLoad) throw new ArgumentException("Limite de carga excedida!");
         _loadedWeight += weight;
+    }
+
+    public override double CalculateCost()
+    {
+        return CalculateStandardCost() * 1.3 + _loadedWeight * 35;
     }
 }
