@@ -5,7 +5,7 @@ public class Flight
     public string FlightId { get; set; }
     public double Distance { get; set; }
 
-    private string? _FlightType { get; set; }
+    private FlightType? _FlightType { get; set; }
     private IAirplane? _Airplane { get; set; }
     public IAirplane? Airplane { 
         get { return _Airplane; } 
@@ -13,11 +13,11 @@ public class Flight
         {
             if (value!.GetType() == typeof(PassengerAirplane))
             {
-                _FlightType = "Commercial";
+                _FlightType = FlightType.Commercial;
             } 
             else
             {
-                _FlightType = "Cargo";                
+                _FlightType = FlightType.Cargo;                
             }
             _Airplane = value;
         } 
@@ -32,7 +32,7 @@ public class Flight
     public void Load()
     {
         if (_Airplane is null) throw new InvalidDataException("Airplane not defined");
-        if (_FlightType == "Cargo") throw new ArgumentException("Cargo flights must specify a weight");
+        if (_FlightType == FlightType.Cargo) throw new ArgumentException("Cargo flights must specify a weight");
         IPassengerAirplane currentAirplane = (IPassengerAirplane)_Airplane;
         currentAirplane.Load();
     }
@@ -40,7 +40,7 @@ public class Flight
     public void Load(double weight)
     {
         if (_Airplane is null) throw new InvalidDataException("Airplane not defined");
-        if (_FlightType == "Commercial") throw new ArgumentException("Commercial flights must not specify a weight");
+        if (_FlightType == FlightType.Commercial) throw new ArgumentException("Commercial flights must not specify a weight");
         ICargoAirplane currentAirplane = (ICargoAirplane)_Airplane;
         currentAirplane.Load(weight);
     }

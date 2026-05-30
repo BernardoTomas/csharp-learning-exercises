@@ -9,7 +9,7 @@ public abstract class Airplane : IAirplane
         this.Prefix = Prefix;
     }
 
-    public double CalculateStandardCost ()
+    protected double CalculateStandardCost()
     {
         return 1352.45;
     }
