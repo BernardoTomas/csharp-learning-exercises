@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pXKGcxZWhYg3GTTyaiCQ2o7twhxm95tpwCdRwxdP4E4M5i+jBymj56PSmWJQvwm827DBd24yj12o0z3eG1ZViA==",
+  "dgSpecHash": "6oGJAwJ4EJufeCYwDw8slgYmivqjq21pX9op6RjrUsKBDw9ZmyXNFXHLnBXFt/0ZbSkTvurWyQOhgoMbbSCaIg==",
   "success": true,
-  "projectFilePath": "/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/arrays-e-funcoes/arrays-e-funcoes.csproj",
+  "projectFilePath": "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/arrays-e-funcoes/arrays-e-funcoes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0WAOeKGEw5AQjtX7xcOcJY6kkOnkOB25h26VwIu3pYrxWEhGFDZu/jcKwk5bB+BYS96EPUZ4qCix3s836AOSmg==",
+  "dgSpecHash": "ecxDkqXJWTClBnG1nwJ4s3XvbMWL6s2dgmMsufB5hJFFd+2P9HxW3JDcGkDX2du2lFWw2v4mCG/o8fgPZGbbHA==",
   "success": true,
-  "projectFilePath": "/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/Aeroporto/Aeroporto.csproj",
+  "projectFilePath": "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/Aeroporto/Aeroporto.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

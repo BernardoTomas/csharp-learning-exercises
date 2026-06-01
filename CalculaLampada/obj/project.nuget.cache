@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3BisGw2oTEScIZ/FMaVpaCiz8WEfr7Y/oe7gLku68P8dUG6rLV9JlqWmE+aQS4h7lepCq4QhvnE+XFfAOCnKLA==",
+  "dgSpecHash": "7nYi2xlmq1KSxg1DljxzjEh1DBLfYCnLZSz+aHGze0CTW0TEChb1AGqAKtge9H0sl8ukVqcIvXy2riNjwGj+3g==",
   "success": true,
-  "projectFilePath": "/home/bernardo/Documentos/ExerciciosTrybe/C#/CalculaLampada/CalculaLampada.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/CalculaLampada/CalculaLampada.csproj",
+  "expectedPackageFiles": [
+    "/home/bernardo/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.36/microsoft.netcore.app.host.linux-x64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }

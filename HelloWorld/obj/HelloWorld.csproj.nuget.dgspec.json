@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/bernardo/Documentos/ExerciciosTrybe/C#/HelloWorld/HelloWorld.csproj": {}
+    "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/HelloWorld/HelloWorld.csproj": {}
   },
   "projects": {
-    "/home/bernardo/Documentos/ExerciciosTrybe/C#/HelloWorld/HelloWorld.csproj": {
+    "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/HelloWorld/HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/bernardo/Documentos/ExerciciosTrybe/C#/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/HelloWorld/HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "/home/bernardo/Documentos/ExerciciosTrybe/C#/HelloWorld/HelloWorld.csproj",
+        "projectPath": "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/HelloWorld/HelloWorld.csproj",
         "packagesPath": "/home/bernardo/.nuget/packages/",
-        "outputPath": "/home/bernardo/Documentos/ExerciciosTrybe/C#/HelloWorld/obj/",
+        "outputPath": "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/HelloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/bernardo/.nuget/NuGet/NuGet.Config"
@@ -43,16 +43,23 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.136/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.127/RuntimeIdentifierGraph.json"
         }
       }
     }

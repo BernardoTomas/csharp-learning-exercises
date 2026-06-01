@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mBcDwOduXE++zCL0WQyrF1pfIv5yuFdlE+y/wP2UIYwU2+956rX5CB0S2aTU8bskNswMX7DqVg2hH+7Np6KXKg==",
+  "dgSpecHash": "CNLVxUmmM9/RmQgBdocJF+yO/pQac2UVvlJbfTMwOUqnnvbHKjvIlgjaXWbI9GBg37iUvFtnxtxJ/iPsTT8S3g==",
   "success": true,
-  "projectFilePath": "/home/bernardo/Documentos/ExerciciosTrybe/C#/exercicios-que-nao-valem-nota/LearningStrings/LearningStrings.csproj",
+  "projectFilePath": "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/LearningStrings/LearningStrings.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
