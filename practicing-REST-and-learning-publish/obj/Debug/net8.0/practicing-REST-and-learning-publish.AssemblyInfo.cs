@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CalculaLampada")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("practicing-REST-and-learning-publish")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cb5efa8da01f9c63e19d1e41be651df7f0c4bf3")]
-[assembly: System.Reflection.AssemblyProductAttribute("CalculaLampada")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CalculaLampada")]
+[assembly: System.Reflection.AssemblyProductAttribute("practicing-REST-and-learning-publish")]
+[assembly: System.Reflection.AssemblyTitleAttribute("practicing-REST-and-learning-publish")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
