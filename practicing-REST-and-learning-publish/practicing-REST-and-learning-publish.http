@@ -1,0 +1,6 @@
+@practicing_REST_and_learning_publish_HostAddress = http://localhost:5162
+
+GET {{practicing_REST_and_learning_publish_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
