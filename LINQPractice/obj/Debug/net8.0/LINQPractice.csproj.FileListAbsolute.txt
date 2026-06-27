@@ -1,0 +1,15 @@
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/LINQPractice/bin/Debug/net8.0/LINQPractice
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/LINQPractice/bin/Debug/net8.0/LINQPractice.deps.json
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/LINQPractice/bin/Debug/net8.0/LINQPractice.runtimeconfig.json
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/LINQPractice/bin/Debug/net8.0/LINQPractice.dll
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/LINQPractice/bin/Debug/net8.0/LINQPractice.pdb
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/LINQPractice/obj/Debug/net8.0/LINQPractice.GeneratedMSBuildEditorConfig.editorconfig
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/LINQPractice/obj/Debug/net8.0/LINQPractice.AssemblyInfoInputs.cache
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/LINQPractice/obj/Debug/net8.0/LINQPractice.AssemblyInfo.cs
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/LINQPractice/obj/Debug/net8.0/LINQPractice.csproj.CoreCompileInputs.cache
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/LINQPractice/obj/Debug/net8.0/LINQPractice.sourcelink.json
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/LINQPractice/obj/Debug/net8.0/LINQPractice.dll
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/LINQPractice/obj/Debug/net8.0/refint/LINQPractice.dll
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/LINQPractice/obj/Debug/net8.0/LINQPractice.pdb
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/LINQPractice/obj/Debug/net8.0/LINQPractice.genruntimeconfig.cache
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/LINQPractice/obj/Debug/net8.0/ref/LINQPractice.dll
