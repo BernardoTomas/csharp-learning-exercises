@@ -1,4 +1,4 @@
-namespace ArtistsLists;
+namespace LINQPractice;
 internal class Artist
 {
     public string Name { get; set; } = "";
