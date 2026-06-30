@@ -1,0 +1,15 @@
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/MoreAdvancedLINQ/bin/Debug/net8.0/MoreAdvancedLINQ
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/MoreAdvancedLINQ/bin/Debug/net8.0/MoreAdvancedLINQ.deps.json
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/MoreAdvancedLINQ/bin/Debug/net8.0/MoreAdvancedLINQ.runtimeconfig.json
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/MoreAdvancedLINQ/bin/Debug/net8.0/MoreAdvancedLINQ.dll
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/MoreAdvancedLINQ/bin/Debug/net8.0/MoreAdvancedLINQ.pdb
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/MoreAdvancedLINQ/obj/Debug/net8.0/MoreAdvancedLINQ.GeneratedMSBuildEditorConfig.editorconfig
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/MoreAdvancedLINQ/obj/Debug/net8.0/MoreAdvancedLINQ.AssemblyInfoInputs.cache
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/MoreAdvancedLINQ/obj/Debug/net8.0/MoreAdvancedLINQ.AssemblyInfo.cs
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/MoreAdvancedLINQ/obj/Debug/net8.0/MoreAdvancedLINQ.csproj.CoreCompileInputs.cache
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/MoreAdvancedLINQ/obj/Debug/net8.0/MoreAdvancedLINQ.sourcelink.json
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/MoreAdvancedLINQ/obj/Debug/net8.0/MoreAdvancedLINQ.dll
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/MoreAdvancedLINQ/obj/Debug/net8.0/refint/MoreAdvancedLINQ.dll
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/MoreAdvancedLINQ/obj/Debug/net8.0/MoreAdvancedLINQ.pdb
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/MoreAdvancedLINQ/obj/Debug/net8.0/MoreAdvancedLINQ.genruntimeconfig.cache
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/MoreAdvancedLINQ/obj/Debug/net8.0/ref/MoreAdvancedLINQ.dll

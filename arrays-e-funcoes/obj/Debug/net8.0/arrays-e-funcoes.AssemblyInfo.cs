@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("arrays-e-funcoes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fafa6ba95470d162911d10924300a4bd5542abc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+672b961459bb43d66de28e2d204f752f0ba110f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("arrays-e-funcoes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("arrays-e-funcoes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
