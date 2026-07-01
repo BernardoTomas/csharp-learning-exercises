@@ -1,4 +1,5 @@
 ﻿using Developers.Models;
+using Students.Models;
 
 public class Program
 {
@@ -29,5 +30,27 @@ public class Program
             }
             Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
         }
+
+        List<Student> studentsList = new List<Student>
+        {
+            new Student{ Name = "Laura", Scores = [20, 90, 80] },
+            new Student{ Name = "Gustavo", Scores = [70, 60, 80] },
+            new Student{ Name = "Tânia", Scores = [50, 60, 40] },
+        };
+
+        var passingStudents =
+            from student in studentsList
+            where student.Scores.Sum() >= 180
+            select student;
+
+        Console.WriteLine("^^^^^^^^^^^^^^^^v " + passingStudents.Count() + " Estudantes Passaram v^^^^^^^^^^^^^^^^");
+        foreach(var student in passingStudents)
+        {
+            Console.WriteLine(student.Name + " passou com " + student.Scores.Sum() + " pontos.");
+            Console.WriteLine("Maior nota: " + student.Scores.Max());
+            Console.WriteLine("Menor nota: " + student.Scores.Min());
+            Console.WriteLine("Média: " + (int)student.Scores.Average());
+        }
+
     }
 }
