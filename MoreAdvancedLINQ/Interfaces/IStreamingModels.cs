@@ -3,24 +3,30 @@ namespace Streaming.Models;
 public interface IMedia
 {
     string Name { get; set; }
-    int GenreId { get; set; }
+    int Id { get; set; }
     float Rating { get; set; }
 }
 
-public interface IMovie : IMedia
+public interface IGenredMedia : IMedia
+{
+    int[] GenreIds { get; set; }
+}
+public interface IMovie : IGenredMedia
 {
     TimeSpan Duration { get; set; }
 }
 
-public interface ITvShow : IMedia
+public interface ITvShow : IGenredMedia
 {
-    int Seasons { get; set; }
-    int TotalEpisodes { get; set; }
+    void CalculateRating();
 }
 
-// Create IEpisode, make a structure for keeping episodes in a tv show
 
-public interface IGenreRepo
+public interface IEpisode : IMedia
 {
-    string getGenreById(int id);
+    int TvShowID { get; set; }
+    int Season { get; set; }
+    int EpNumber { get; set; }
+    TimeSpan Duration { get; set; }
 }
+

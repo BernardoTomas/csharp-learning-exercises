@@ -1,17 +1,16 @@
-using System.Runtime.CompilerServices;
-
 namespace Streaming.Models;
 
 public class Media : IMedia
 {
+    public int Id { get; set; }
     public string Name { get; set; }
-    public int GenreId { get; set; }
+    public int[] GenreIds { get; set; }
     public float Rating { get; set; }
 
-    public Media (string name, int genreId, float rating)
+    public Media (string name, int[] genreIds, float rating)
     {
         Name = name;
-        GenreId = genreId;
+        GenreIds = genreIds;
         Rating = rating;
     }
 }
@@ -20,7 +19,7 @@ public class Movie : Media, IMovie
 {
     public TimeSpan Duration { get; set; }
 
-    public Movie (string name, int genreId, float rating, TimeSpan duration) : base(name, genreId, rating)
+    public Movie (string name, int[] genreIds, float rating, TimeSpan duration) : base(name, genreIds, rating)
     {
         Duration = duration;
     }
@@ -28,11 +27,11 @@ public class Movie : Media, IMovie
 
 public class TvShow : Media, ITvShow
 {
-    public int Seasons { get; set; }
-    public int TotalEpisodes { get; set; }
-    public TvShow (string name, int genreId, float rating, int seasons, int episodesCount) : base(name, genreId, rating)
+    public int TvShowID { get; set; }
+    public TvShow (string name, int[] genreIds, float rating, int id) : base(name, genreIds, rating)
     {
-        Seasons = seasons;
-        TotalEpisodes = episodesCount;
+        TvShowID = id;
     }
+
+    public void CalculateRating() {}
 }
