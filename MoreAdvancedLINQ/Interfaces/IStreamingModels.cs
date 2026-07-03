@@ -4,7 +4,6 @@ public interface IMedia
 {
     string Name { get; set; }
     int Id { get; set; }
-    float Rating { get; set; }
 }
 
 public interface IGenredMedia : IMedia
@@ -18,13 +17,13 @@ public interface IMovie : IGenredMedia
 
 public interface ITvShow : IGenredMedia
 {
-    void CalculateRating();
+    string TvShowRefID { get; set; }
 }
 
 
 public interface IEpisode : IMedia
 {
-    int TvShowID { get; set; }
+    string TvShowRefID { get; set; }
     int Season { get; set; }
     int EpNumber { get; set; }
     TimeSpan Duration { get; set; }
