@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("learning-asp-net-webapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91df1ac50ec47e9cee69bd3b6288790e12baa2d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d675ff2d8bcac08332e646c8b5ddf87661108e0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("learning-asp-net-webapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("learning-asp-net-webapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

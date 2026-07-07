@@ -1,4 +1,5 @@
 ﻿using Developers.Models;
+using Streaming.Models;
 using Students.Models;
 
 public class Program
@@ -52,6 +53,31 @@ public class Program
         //     Console.WriteLine("Média: " + (int)student.Scores.Average());
         // }
 
-        
+        List<Media> newMedia = new List<Media>
+        {
+            new Movie("The Fellowship of the Ring", [2, 3], new TimeSpan(3, 30, 0)),
+            new Movie("The Two Towers", [2, 3], new TimeSpan(4, 0, 0)),
+            new Movie("The Return of the King", [2, 3], new TimeSpan(4, 30, 0)),
+            new Movie("The Princess Bride", [0, 3], new TimeSpan(1, 30, 0)),
+            new TvShow("Arcane", [3, 4], "arcane"),
+            new Episode("Welcome to the Playground", "arcane", 1, 1, new TimeSpan(0, 50, 0)),
+            new Episode("Some Mysteries Are Better Left Unsolved", "arcane", 1, 2, new TimeSpan(0, 46, 0)),
+            new Episode("The Base Violence Necessary for Change", "arcane", 1, 3, new TimeSpan(0, 54, 0)),
+        };
+
+        StreamingDBModel StreamingDB = new StreamingDBModel();
+
+        foreach(Media mediaItem in newMedia)
+        {
+            StreamingDB.AddMedia(mediaItem);
+        }
+
+        var AdventureMovies = StreamingDB.GetMediaByGenre((int)MediaGenres.Adventure);
+
+        Console.WriteLine("---------- Filmes de Aventura ----------");
+        foreach (var movie in AdventureMovies)
+        {
+            Console.WriteLine(movie.Name);
+        }
     }
 }

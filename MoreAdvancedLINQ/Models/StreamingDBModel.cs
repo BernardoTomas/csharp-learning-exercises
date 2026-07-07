@@ -19,15 +19,12 @@ public class StreamingDBModel
         _tvShowList.Add(tvShow);
     }
 
-    public void AddEpisode(IEpisode episode, string tvShowRefId)
+    public void AddEpisode(IEpisode episode)
     {
-        if (string.IsNullOrEmpty(tvShowRefId)) throw new ArgumentException("Episode must have a TvShowRefID");
-
-        episode.TvShowRefID = tvShowRefId;
         episode.Id = _idGenerator.GenerateId("3");
         _episodeList.Add(episode);
     }
-    public void AddMedia (IMedia media, string tvShowRefId = "")
+    public void AddMedia (IMedia media)
     {
         switch (media)
         {
@@ -38,10 +35,22 @@ public class StreamingDBModel
                 AddTvShow(tvShow);
                 break;
             case IEpisode episode:
-                AddEpisode(episode, tvShowRefId);
+                AddEpisode(episode);
                 break;
             default:
                 throw new ArgumentException("Media Type is not Movie, TvShow, or Episode");
         }
+    }
+
+    public List<IGenredMedia> GetMediaByGenre (int genreQuery)
+    {
+        List<IGenredMedia> allGenredMedia = _movieList.Concat<IGenredMedia>(_tvShowList).ToList();
+        
+        var mediaByGenre =
+            from mediaItem in allGenredMedia
+                where mediaItem.GenreIds.Contains(genreQuery)
+            select mediaItem;
+
+        return mediaByGenre.ToList();
     }
 }
