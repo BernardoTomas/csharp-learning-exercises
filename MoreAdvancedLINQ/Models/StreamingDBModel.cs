@@ -53,4 +53,23 @@ public class StreamingDBModel
 
         return mediaByGenre.ToList();
     }
+
+    public TvShowDTO GetTvShowInfoByRefID (string tvShowRefID)
+    {
+        var tvShow = _tvShowList.FirstOrDefault(show => show.TvShowRefID == tvShowRefID);
+
+        if (tvShow is null) return new TvShowDTO{ errMessage = "Tv Show not found" };
+
+        var tvShowEpisodes = _episodeList.Where(ep => ep.TvShowRefID == tvShowRefID).ToList();
+
+        if (!tvShowEpisodes.Any()) return new TvShowDTO{ errMessage = "Tv Show has no episodes" }; 
+
+        return new TvShowDTO
+        {
+            Title = tvShow.Name,
+            EpisodeCount = tvShowEpisodes.Count(),
+            SeasonsCount = tvShowEpisodes.Max(ep => ep.Season),
+            TotalDuration = tvShowEpisodes.Aggregate(new TimeSpan(0,0,0), (duration, ep) => duration + ep.Duration)
+        };
+    }
 }

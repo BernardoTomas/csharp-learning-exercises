@@ -63,6 +63,10 @@ public class Program
             new Episode("Welcome to the Playground", "arcane", 1, 1, new TimeSpan(0, 50, 0)),
             new Episode("Some Mysteries Are Better Left Unsolved", "arcane", 1, 2, new TimeSpan(0, 46, 0)),
             new Episode("The Base Violence Necessary for Change", "arcane", 1, 3, new TimeSpan(0, 54, 0)),
+            new TvShow("The Sopranos", [2, 4], "the_sopranos"),
+            new Episode("Pilot", "the_sopranos", 1, 1, new TimeSpan(0, 40, 0)),
+            new Episode("46 Long", "the_sopranos", 1, 2, new TimeSpan(0, 43, 0)),
+            new Episode("Denial, Anger, Acceptance", "the_sopranos", 1, 3, new TimeSpan(0, 42, 0))
         };
 
         StreamingDBModel StreamingDB = new StreamingDBModel();
@@ -78,6 +82,19 @@ public class Program
         foreach (var movie in AdventureMovies)
         {
             Console.WriteLine(movie.Name);
+        }
+
+        var tvShowInfo = StreamingDB.GetTvShowInfoByRefID("the_sopranos");
+
+        if (tvShowInfo.Title is null)
+        {
+            Console.WriteLine(tvShowInfo.errMessage);
+        } else
+        {
+            Console.WriteLine("-------> " + tvShowInfo.Title + " <--------");
+            Console.WriteLine("Seasons: " + tvShowInfo.SeasonsCount);
+            Console.WriteLine("Episodes: " + tvShowInfo.EpisodeCount);
+            Console.WriteLine("Total Duration: " + tvShowInfo.TotalDuration);
         }
     }
 }
