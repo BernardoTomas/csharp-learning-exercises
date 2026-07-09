@@ -42,7 +42,7 @@ public class StreamingDBModel
         }
     }
 
-    public List<IGenredMedia> GetMediaByGenre (int genreQuery)
+    public List<IGenredMedia> GetMediaByGenre (MediaGenres genreQuery)
     {
         List<IGenredMedia> allGenredMedia = _movieList.Concat<IGenredMedia>(_tvShowList).ToList();
         
@@ -62,11 +62,12 @@ public class StreamingDBModel
 
         var tvShowEpisodes = _episodeList.Where(ep => ep.TvShowRefID == tvShowRefID).ToList();
 
-        if (!tvShowEpisodes.Any()) return new TvShowDTO{ errMessage = "Tv Show has no episodes" }; 
+        if (!tvShowEpisodes.Any()) return new TvShowDTO{ errMessage = "Tv Show has no episodes" };
 
         return new TvShowDTO
         {
             Title = tvShow.Name,
+            Genres = string.Join(", ", tvShow.GenreIds.Select(id => id.ToString())),
             EpisodeCount = tvShowEpisodes.Count(),
             SeasonsCount = tvShowEpisodes.Max(ep => ep.Season),
             TotalDuration = tvShowEpisodes.Aggregate(new TimeSpan(0,0,0), (duration, ep) => duration + ep.Duration)

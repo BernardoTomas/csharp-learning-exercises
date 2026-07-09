@@ -15,9 +15,9 @@ public class Media : IMedia
 public class Movie : Media, IMovie
 {
     public new TimeSpan Duration { get; set; }
-    public int[] GenreIds { get; set; }
+    public MediaGenres[] GenreIds { get; set; }
 
-    public Movie (string name, int[] genreIds, TimeSpan duration) : base(name)
+    public Movie (string name, MediaGenres[] genreIds, TimeSpan duration) : base(name)
     {
         Duration = duration;
         GenreIds = genreIds;
@@ -27,8 +27,8 @@ public class Movie : Media, IMovie
 public class TvShow : Media, ITvShow
 {
     public string TvShowRefID { get; set; }
-    public int[] GenreIds { get; set; }
-    public TvShow (string name, int[] genreIds, string refId) : base(name)
+    public MediaGenres[] GenreIds { get; set; }
+    public TvShow (string name, MediaGenres[] genreIds, string refId) : base(name)
     {
         TvShowRefID = refId;
         GenreIds = genreIds;

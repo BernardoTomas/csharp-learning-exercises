@@ -8,7 +8,7 @@ public interface IMedia
 
 public interface IGenredMedia : IMedia
 {
-    int[] GenreIds { get; set; }
+    MediaGenres[] GenreIds { get; set; }
 }
 public interface IMovie : IGenredMedia
 {
