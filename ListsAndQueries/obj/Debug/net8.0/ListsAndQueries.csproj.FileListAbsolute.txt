@@ -1,0 +1,15 @@
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/ListsAndQueries/bin/Debug/net8.0/ListsAndQueries
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/ListsAndQueries/bin/Debug/net8.0/ListsAndQueries.deps.json
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/ListsAndQueries/bin/Debug/net8.0/ListsAndQueries.runtimeconfig.json
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/ListsAndQueries/bin/Debug/net8.0/ListsAndQueries.dll
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/ListsAndQueries/bin/Debug/net8.0/ListsAndQueries.pdb
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/ListsAndQueries/obj/Debug/net8.0/ListsAndQueries.GeneratedMSBuildEditorConfig.editorconfig
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/ListsAndQueries/obj/Debug/net8.0/ListsAndQueries.AssemblyInfoInputs.cache
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/ListsAndQueries/obj/Debug/net8.0/ListsAndQueries.AssemblyInfo.cs
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/ListsAndQueries/obj/Debug/net8.0/ListsAndQueries.csproj.CoreCompileInputs.cache
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/ListsAndQueries/obj/Debug/net8.0/ListsAndQueries.sourcelink.json
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/ListsAndQueries/obj/Debug/net8.0/ListsAndQueries.dll
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/ListsAndQueries/obj/Debug/net8.0/refint/ListsAndQueries.dll
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/ListsAndQueries/obj/Debug/net8.0/ListsAndQueries.pdb
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/ListsAndQueries/obj/Debug/net8.0/ListsAndQueries.genruntimeconfig.cache
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/ListsAndQueries/obj/Debug/net8.0/ref/ListsAndQueries.dll
