@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EWAaZTalGRuWqEspbzydE2AObGXU0KBieo6EAktO+aR4kOiGu/nOUM2N37SEPrZ08nDoGiE57Pp9GiG2/SQe4g==",
+  "dgSpecHash": "Nq6ocoKbHD2dFV4mh+cjo3/G5Z7bHjSNe3apR4Gj8lsNkyryQFz0Xk38P7sn1O++Bsz0wKuEdu3ex9IyoX6lgA==",
   "success": true,
   "projectFilePath": "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/apiSql/apiSql.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,7 @@
     "/home/bernardo/.nuget/packages/microsoft.entityframeworkcore.design/7.0.4/microsoft.entityframeworkcore.design.7.0.4.nupkg.sha512",
     "/home/bernardo/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.4/microsoft.entityframeworkcore.relational.7.0.4.nupkg.sha512",
     "/home/bernardo/.nuget/packages/microsoft.entityframeworkcore.sqlserver/7.0.4/microsoft.entityframeworkcore.sqlserver.7.0.4.nupkg.sha512",
+    "/home/bernardo/.nuget/packages/microsoft.entityframeworkcore.tools/7.0.4/microsoft.entityframeworkcore.tools.7.0.4.nupkg.sha512",
     "/home/bernardo/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/home/bernardo/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "/home/bernardo/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
