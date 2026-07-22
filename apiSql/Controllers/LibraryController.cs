@@ -14,8 +14,32 @@ public class LibraryController : ControllerBase
         _repository = repo;
     }
 
+    [HttpGet("books")]
+    public IActionResult GetBooks()
+    {
+        var bookList = _repository.GetBookList();
+
+        return Ok(bookList);
+    }
+
+    [HttpGet("authors")]
+    public IActionResult GetAuthors()
+    {
+        var authorList = _repository.GetAuthorList();
+
+        return Ok(authorList);
+    }
+
+    [HttpGet("publishers")]
+    public IActionResult GetPublishers()
+    {
+        var publisherList = _repository.GetPublisherList();
+
+        return Ok(publisherList);
+    }
+
     [HttpPost]
-    public IActionResult AddBook ()
+    public IActionResult AddBook()
     {
         var book = new Book
         {

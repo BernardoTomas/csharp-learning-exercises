@@ -18,6 +18,20 @@ public class LibraryRepository
         return query; 
     }
 
+    public List<Author> GetAuthorList ()
+    {
+        var query = _context.Authors.ToList();
+
+        return query; 
+    }
+
+    public List<Publisher> GetPublisherList ()
+    {
+        var query = _context.Publishers.ToList();
+
+        return query; 
+    }
+
     public Book? GetBookById (int id)
     {
         return _context.Books.Include(b => b.Author).Include(b => b.Publisher).FirstOrDefault(b => b.BookId == id);
