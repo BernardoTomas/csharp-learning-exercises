@@ -1,0 +1,6 @@
+@apiSql_HostAddress = http://localhost:5083
+
+GET {{apiSql_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
