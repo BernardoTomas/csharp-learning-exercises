@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Auth.Repository;
 
-public class UserLoginContext : DbContext
+public class UserLoginContext : DbContext, IUserLoginContext
 {
     public UserLoginContext(DbContextOptions<UserLoginContext> options) : base(options) {}
     public UserLoginContext() {}

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculaLampada")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+387fafd77b1cfde78fad3227737ba95180539573")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fa65f9dd6253b6c25c582ad2b6c6d23a5c684d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculaLampada")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculaLampada")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

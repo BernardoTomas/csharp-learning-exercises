@@ -1,3 +1,4 @@
+using Auth.DTO;
 using Auth.Models;
 using Microsoft.EntityFrameworkCore.Update;
 
@@ -27,5 +28,10 @@ public class UserRepository : IUserRepository
         _context.SaveChanges();
 
         return user;
+    }
+
+    public User? GetUserByEmail(string userEmail)
+    {
+        return _context.Users.FirstOrDefault(u => u.Email == userEmail);
     }
 }
