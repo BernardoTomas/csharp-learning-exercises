@@ -85,3 +85,5 @@
 /home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/practicingJWT/obj/Debug/net8.0/practicingJWT.pdb
 /home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/practicingJWT/obj/Debug/net8.0/practicingJWT.genruntimeconfig.cache
 /home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/practicingJWT/obj/Debug/net8.0/ref/practicingJWT.dll
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/practicingJWT/bin/Debug/net8.0/DotNetEnv.dll
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/practicingJWT/bin/Debug/net8.0/Superpower.dll

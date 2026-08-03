@@ -10,7 +10,7 @@ public class TokenGenerator
 {
     public string Generate(User user)
     {
-        string Secret = "4d82a63bbdc67c1e4784ed6587f3730c";
+        var Secret = Environment.GetEnvironmentVariable("JWT_SECRET_KEY");
         int ExpiresHours = 4;
 
         var tokenHandler = new JwtSecurityTokenHandler();
@@ -18,7 +18,7 @@ public class TokenGenerator
         {
             Subject = AddClaims(user),
             SigningCredentials = new SigningCredentials(
-                new SymmetricSecurityKey(Encoding.ASCII.GetBytes(Secret)),
+                new SymmetricSecurityKey(Encoding.ASCII.GetBytes(Secret!)),
                 SecurityAlgorithms.HmacSha256Signature
             ),
             Expires = DateTime.Now.AddHours(ExpiresHours)
