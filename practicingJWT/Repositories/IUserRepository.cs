@@ -1,4 +1,3 @@
-using Auth.DTO;
 using Auth.Models;
 
 namespace Auth.Repository;

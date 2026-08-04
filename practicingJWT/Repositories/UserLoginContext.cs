@@ -9,6 +9,7 @@ public class UserLoginContext : DbContext, IUserLoginContext
     public UserLoginContext() {}
 
     public DbSet<User> Users { get; set; } = null!;
+    public DbSet<Book> Books { get; set; } = null!;
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
@@ -18,5 +19,13 @@ public class UserLoginContext : DbContext, IUserLoginContext
 
             optionsBuilder.UseSqlServer(connectionString);
         }
+    }
+
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.Entity<Book>()
+            .HasOne(b => b.User)
+            .WithMany(u => u.Books)
+            .HasForeignKey(b => b.UserId);
     }
 }
