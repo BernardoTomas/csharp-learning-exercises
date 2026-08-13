@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("practicing-REST-and-learning-publish")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc5ed177fe4de361250751606dfebecfc4de5038")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5010b653f37278c3b4521bc9977c5eaa3d74c5d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("practicing-REST-and-learning-publish")]
 [assembly: System.Reflection.AssemblyTitleAttribute("practicing-REST-and-learning-publish")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
