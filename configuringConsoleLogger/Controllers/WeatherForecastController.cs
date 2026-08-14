@@ -1,9 +1,11 @@
 using Microsoft.AspNetCore.Mvc;
+using configuringConsoleLogger.Filters;
 
 namespace configuringConsoleLogger.Controllers;
 
 [ApiController]
 [Route("[controller]")]
+[MyActionFilter]
 public class WeatherForecastController : ControllerBase
 {
     private static readonly string[] Summaries = new[]

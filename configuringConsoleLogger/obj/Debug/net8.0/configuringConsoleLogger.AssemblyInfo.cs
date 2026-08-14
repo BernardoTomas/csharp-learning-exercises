@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("configuringConsoleLogger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec0a979fd8c895bc4a52c9182f3925c4ab56fbb9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a03ee7bff234929196195fe703d072914b96cfbc")]
 [assembly: System.Reflection.AssemblyProductAttribute("configuringConsoleLogger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("configuringConsoleLogger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
