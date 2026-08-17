@@ -21,9 +21,10 @@ public class WeatherForecastController : ControllerBase
     }
 
     [HttpGet(Name = "GetWeatherForecast")]
+    [MyAsyncActionFilter]
     public IEnumerable<WeatherForecast> Get()
     {
-        _logger.LogInformation("GET at '/weatherforecast' activated");
+        _logger.LogInformation("GET  action at '/weatherforecast' activated");
         return Enumerable.Range(1, 5).Select(index => new WeatherForecast
         {
             Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
