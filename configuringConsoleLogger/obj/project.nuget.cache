@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+V3UyVcfEVR0xfZ0GU9kTiWlpT3E1k72DhDkLcspo9kvJwOfFUxKdI5pl+QKp3Fdi+0aPllmvMx+vmgRKu4rKg==",
+  "dgSpecHash": "th+Lgx7rN6wttqOaH8jX5UZmG1ZTSghfoZdG56dn9cZSIixWhz6Gs2zcZZWcmGzYzqqISdrfKuNccKRYZmj+rg==",
   "success": true,
   "projectFilePath": "/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/configuringConsoleLogger/configuringConsoleLogger.csproj",
   "expectedPackageFiles": [
