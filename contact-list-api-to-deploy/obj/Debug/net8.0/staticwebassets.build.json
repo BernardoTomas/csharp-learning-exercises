@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oMCPENDYj3OaM6v4tIblgDkTxEHyVylnv+TrHUbJgnk=",
+  "Source": "contact-list-api-to-deploy",
+  "BasePath": "_content/contact-list-api-to-deploy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
