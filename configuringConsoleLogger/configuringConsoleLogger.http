@@ -1,0 +1,6 @@
+@configuringConsoleLogger_HostAddress = http://localhost:5220
+
+GET {{configuringConsoleLogger_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
