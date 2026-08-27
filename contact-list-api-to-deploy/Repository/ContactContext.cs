@@ -13,8 +13,8 @@ public class ContactContext : DbContext, IContactContext
     {
         if (!optionsBuilder.IsConfigured)
         {
-            var connectionString = "Server=localhost;Database=ContactList;User=SA;Password=TrybeContact!;TrustServerCertificate=True";
-            optionsBuilder.UseSqlServer(connectionString);
+            var connectionString = "Server=localhost;Port=3308;User Id=root;Password=123456;Database=ContactDB;";
+            optionsBuilder.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString), null);
         }
     }
 }

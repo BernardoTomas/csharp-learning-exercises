@@ -76,3 +76,7 @@
 /home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/contact-list-api-to-deploy/obj/Debug/net8.0/contact-list-api-to-deploy.pdb
 /home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/contact-list-api-to-deploy/obj/Debug/net8.0/contact-list-api-to-deploy.genruntimeconfig.cache
 /home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/contact-list-api-to-deploy/obj/Debug/net8.0/ref/contact-list-api-to-deploy.dll
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/contact-list-api-to-deploy/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/contact-list-api-to-deploy/bin/Debug/net8.0/MySqlConnector.dll
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/contact-list-api-to-deploy/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/bernardo/Documentos/ExerciciosTrybe/csharp-learning-exercises/contact-list-api-to-deploy/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.Design.dll

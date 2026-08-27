@@ -1,10 +1,19 @@
 services:
-  db:
-    image: mcr.microsoft.com/azure-sql-edge:latest
-    container_name: contact_db
+  dbmysql:
+    image: mysql:8.0.21
+    container_name: contact_db_mysql
+    platform: linux/x86_64
     ports:
-      - 1433:1433
+      - 3308:3306
     environment:
-      - ACCEPT_EULA=Y
-      - MSSQL_SA_PASSWORD=TrybeContact!
-      - MSSQL_PID=Developer
+      - MYSQL_ROOT_PASSWORD=123456
+    restart: 'always'
+  # db:
+  #   image: mcr.microsoft.com/azure-sql-edge:latest
+  #   container_name: contact_db
+  #   ports:
+  #     - 1433:1433
+  #   environment:
+  #     - ACCEPT_EULA=Y
+  #     - MSSQL_SA_PASSWORD=TrybeContact!
+  #     - MSSQL_PID=Developer
