@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/contact-list-api-to-deploy.props" />
+</Project>

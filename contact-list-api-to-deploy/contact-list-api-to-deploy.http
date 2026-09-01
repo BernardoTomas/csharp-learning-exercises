@@ -1,0 +1,6 @@
+@contact_list_api_to_deploy_HostAddress = http://localhost:5097
+
+GET {{contact_list_api_to_deploy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
