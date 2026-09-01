@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("contact-list-api-to-deploy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43a7bed6dd2f6f3491dc85360d048e4276c6c0e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4535382ff8d3e9b2ef273c1730105a5e09d1042")]
 [assembly: System.Reflection.AssemblyProductAttribute("contact-list-api-to-deploy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("contact-list-api-to-deploy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
